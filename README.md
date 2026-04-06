@@ -1,2 +1,1 @@
-# pixel-technologies
-# pixel-technologies
+# Pixel Technologies Homepage
